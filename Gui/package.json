@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "portscanner": "^2.2.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^3.0.0",
     "electron": "^4.1.5"
   },
   "devDependencies": {
